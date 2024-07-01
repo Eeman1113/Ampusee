@@ -1,2 +1,3 @@
 pdf2image==1.17.0
 streamlit==1.28.1
+python-poppler
