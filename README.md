@@ -14,11 +14,12 @@ Welcome to Ampusee! This project is your new best friend for those late-night ma
 ### Done
 - Basic manga viewer interface.
 - Accepts all formats of ebooks.
-
-### To-Do
 - Optimize page turning.
 - Implement computer vision to make the project touchless.
 - Develop a custom front end (optional).
+
+### To-Do
+- All Done
 
 
 ## 🚀 Getting Started
